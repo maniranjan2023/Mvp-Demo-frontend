@@ -24,6 +24,8 @@ An intelligent and secure platform for doctors to manage and document patient in
 - **Manual Search**: Search patients by name, ID, or health condition.
 - **Voice Search**: Use voice input to locate a patient quickly via speech recognition.
 
+  ### 🔍 Demo Video: https://drive.google.com/file/d/1DUn2zExNjMKOLT8AFQMzJ1N65O0DzObB/view?usp=sharing 
+
 ---
 
 ## 🛠️ Tech Stack
